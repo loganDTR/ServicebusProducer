@@ -1,0 +1,6 @@
+spring:
+  jms:
+    servicebus:
+      connection-string:
+      topic-client-id:
+      pricing-tier: 
